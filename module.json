@@ -8,7 +8,7 @@
   "styles": [],
   "scripts": ["grimhollowwp.js"],
   "manifest": "https://raw.githubusercontent.com/TheDraggo/GrimHollowWeaponProperties/main/module.json",
-  "download": "",
+  "download": "https://github.com/TheDraggo/GrimHollowWeaponProperties/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.8"
 }
