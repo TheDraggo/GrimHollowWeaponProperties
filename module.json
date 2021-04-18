@@ -7,7 +7,7 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["grimhollowwp.js"],
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/TheDraggo/GrimHollowWeaponProperties/main/module.json",
   "download": "",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.8"
