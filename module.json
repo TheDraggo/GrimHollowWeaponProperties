@@ -7,6 +7,8 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["grimhollowwp.js"],
+  "manifest": "",
+  "download": "",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.8"
 }
