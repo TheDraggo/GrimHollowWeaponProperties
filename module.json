@@ -10,5 +10,5 @@
   "manifest": "https://raw.githubusercontent.com/TheDraggo/GrimHollowWeaponProperties/main/module.json",
   "download": "https://github.com/TheDraggo/GrimHollowWeaponProperties/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.8"
+  "compatibleCoreVersion": "0.7.9"
 }
